@@ -1,0 +1,2 @@
+# Google_Calendar_Test
+・GASカレンダーの更新を自動化するために遊びで作成
